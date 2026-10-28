@@ -1,7 +1,7 @@
 /* Noche de las Artes — interacción del sitio beta.
    Colocá las fotos en assets/img/ y los PDF en assets/pdf/. */
 
-const IMAGE_COUNT = 8;
+const IMAGE_COUNT = 17;
 
 const GROUPS = [
   {
