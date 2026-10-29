@@ -6,43 +6,71 @@ const IMAGE_COUNT = 17;
 const GROUPS = [
   {
     number: 1,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°B',
     title: 'Producción del grupo 1',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_01.pdf'
   },
   {
     number: 2,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°A',
     title: 'Producción del grupo 2',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_02.pdf'
   },
   {
     number: 3,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°A',
     title: 'Producción del grupo 3',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_03.pdf'
   },
   {
     number: 4,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°A',
     title: 'Producción del grupo 4',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_04.pdf'
   },
   {
     number: 5,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°A',
     title: 'Producción del grupo 5',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_05.pdf'
   },
   {
     number: 6,
-    course: 'Curso por confirmar',
+    course: 'Curso 1°A',
     title: 'Producción del grupo 6',
+    description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
+    file: 'grupo_06.pdf'
+  },
+  {
+    number: 7,
+    course: 'Curso 1°B',
+    title: 'Producción del grupo 7',
+    description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
+    file: 'grupo_06.pdf'
+  },
+  {
+    number: 8,
+    course: 'Curso 1°B',
+    title: 'Producción del grupo 8',
+    description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
+    file: 'grupo_06.pdf'
+  },
+  {
+    number: 9,
+    course: 'Curso 1°B',
+    title: 'Producción del grupo 9',
+    description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
+    file: 'grupo_06.pdf'
+  },
+  {
+    number: 10,
+    course: 'Curso 1°B',
+    title: 'Producción del grupo 10',
     description: 'Investigación, diseño o prototipo sobre contaminación sonora.',
     file: 'grupo_06.pdf'
   }
